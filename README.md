@@ -1,6 +1,6 @@
 
 # cnab-automation
-Simple Python Script that automates the task of putting separator so the data can be used with Microsoft Excel.
+Simple Python Script that automates the task of putting separators so the data can be used with Microsoft Excel.
 ## How to use
 
     Usage: python main.py [file_path] [--help]
@@ -21,7 +21,7 @@ Simple Python Script that automates the task of putting separator so the data ca
     Enter the number of characters to jump (0 to finish): 5
     Enter the number of characters to jump (0 to finish): 0
     Result file saved: /home/whoami/Documents/cnab-automation/dummy-data1-converted.txt
-### Input:
+### Input
 
     5555555550101202311111
     4444444440205202412345
@@ -34,7 +34,7 @@ Simple Python Script that automates the task of putting separator so the data ca
     6666666660912203112352
     5555555551006203212353
     ...
-### Output:
+### Output
 
     555555555;01012023;11111
     444444444;02052024;12345
