@@ -19,7 +19,7 @@ def separate_text(text, delimiter, jumps):
     return result.rstrip(delimiter)  # Remove the delimiter at the end, if necessary
 
 def show_help():
-    print("Usage: python script.py [file_path] [--help]")
+    print("Usage: python main.py [file_path] [--help]")
     print("Description: This script separates the text in a file into specific groups of characters,")
     print("             adding a delimiter after a variable number of characters.")
     print("\nParameters:")
